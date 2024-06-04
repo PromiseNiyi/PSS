@@ -1,3 +1,18 @@
+/*this CSS will give direction to codes for every section*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @font-face {
     font-family: "articulat CF";
     src: url(/fonts/articulat/ArticulatCF-Normal.otf) format(otf);
